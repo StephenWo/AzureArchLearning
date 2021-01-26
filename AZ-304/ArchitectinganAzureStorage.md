@@ -35,3 +35,21 @@
 
 ## Performance and Scaling
 
+## Additional Data Storage
+* Data Lake, HDFS, Unlimited storage
+* Recovery Services Vault
+* Azure Data Box, physical box for data transfer
+* StorSimple 
+
+## Storage Security
+* Control of the access keys
+* RBAC, Azure AD
+* Azure Key Vault, standard or HSM
+* Setup virtual network to the resource
+* Data is encryoed using Keys for Blobs, Tables, Files and Queues on disks, 
+  keys can be own key stored in Azure Key Vault
+* Shared Access Signature
+* HTTPS always
+
+## Copy files with AzCopy
+
